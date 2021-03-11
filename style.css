@@ -1,0 +1,128 @@
+body{
+    text-align: center;
+    background-repeat: no-repeat;
+}
+h1{
+    font-size: 50px;
+    text-shadow: 2px 2px #F8BBDO;
+    font-family: 'Akaya Kanadaka', cursive;
+}
+#bio{
+    padding-top: 200px;
+    padding-bottom: 200px;
+    padding-right: 500px;
+    padding-left: 500px;
+    text-align: center;
+    display:table;
+    font-size: 42px;
+    vertical-align: middle;
+    
+}
+.line{
+    height:6px;
+    background-color: #000;
+    width: 70px;
+    margin: 8px auto;
+    
+}
+.skip{
+    width: 200px;
+    margin-bottom: 50px;
+    border-radius: 50%;
+}
+p{
+    max-width: 450px;
+    margin: 25px auto;
+    font-size: 25px;
+    line-height: 1.3;
+   
+    
+}
+.menu{
+    background: white;
+    position: fixed;
+    width: 100%;
+    top: 0px;
+    margin-top: 0px;
+    z-index: 10;
+    cursor:alias;
+}
+.links{
+    display: inline;
+    padding-right: 25px;
+    padding-left: 33px;
+    font-family: fantasy;
+    font-size: 20px;
+}
+.links:hover{
+    text-decoration: underline;
+    font-size:25px;
+}
+#welcome{
+    padding-top: 200px;
+    padding-bottom: 200px;
+    padding-right: 100px;
+    padding-left: 100px;
+    overflow: hidden;
+    background: linear-gradient( #00ff25 0%, #00f1ff 100%);
+    
+}
+.open
+{
+    display:table-cell;
+    position:relative;
+    text-align: center;
+    vertical-align: middle;
+}
+#about{
+    background: linear-gradient( #00ff25 0%, #00f1ff 100%);
+    padding-top: 200px;
+    padding-bottom: 200px;
+    padding-right: 500px;
+    padding-left: 500px;
+}
+
+html{
+    scroll-behavior: smooth;
+}
+#inspiration{
+    padding-top: 200px;
+    padding-bottom: 200px;
+    padding-right: 500px;
+    padding-left: 500px;
+    background: linear-gradient( #00ff25 0%, #00f1ff 100%);
+}
+#skiip{
+    width: 500px;
+    height: 500px;
+    border-radius: 50px;
+}
+a{
+    text-decoration: none;
+}
+.contact_1 h3{
+    display: inline;
+}
+.contact_1 a{
+    text-shadow: none !important;
+    
+}
+#contact iframe{
+    width: 100%;
+    height: 100%;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
